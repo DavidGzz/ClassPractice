@@ -9,9 +9,9 @@
         git commit -m "Message"
     </li>
     <li>
-        git 
+        git add
     </li>
     <li>
-        git push
+        git push -u origin master
     </li>
 </ol>
